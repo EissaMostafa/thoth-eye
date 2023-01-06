@@ -1,0 +1,1 @@
+Playground for learning and experimenting with computer vision
